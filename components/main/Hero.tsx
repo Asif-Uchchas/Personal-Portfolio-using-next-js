@@ -1,4 +1,5 @@
 import React from 'react'
+import { HeroContents } from '../sub/HeroContents'
 
 export const Hero = () => {
   return (
@@ -11,6 +12,7 @@ export const Hero = () => {
       >
         <source src="/blackhole.webm" type="video/webm" />
       </video>
+      <HeroContents/>
     </div>
   )
 }
