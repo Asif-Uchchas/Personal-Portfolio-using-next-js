@@ -29,18 +29,18 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
-      width: 80,
-      height: 80,
-    },
+    // {
+    //   skill_name: "Redux",
+    //   Image: "/redux.png",
+    //   width: 80,
+    //   height: 80,
+    // },
+    // {
+    //   skill_name: "React Query",
+    //   Image: "/reactquery.png",
+    //   width: 80,
+    //   height: 80,
+    // },
     {
       skill_name: "Type Script",
       Image: "/ts.png",
@@ -59,12 +59,12 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
-      width: 80,
-      height: 80,
-    },
+    // {
+    //   skill_name: "Stripe Payment",
+    //   Image: "/stripe.webp",
+    //   width: 80,
+    //   height: 80,
+    // },
     {
       skill_name: "Node js",
       Image: "/node-js.png",
@@ -123,29 +123,35 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
+      skill_name: "Bootstrap",
+      Image: "/bootstrap.png",
       width: 80,
       height: 80,
     },
+    // {
+    //   skill_name: "Material UI",
+    //   Image: "/mui.png",
+    //   width: 80,
+    //   height: 80,
+    // },
     {
       skill_name: "React",
       Image: "/react.png",
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
-      width: 80,
-      height: 80,
-    },
+    // {
+    //   skill_name: "Redux",
+    //   Image: "/redux.png",
+    //   width: 80,
+    //   height: 80,
+    // },
+    // {
+    //   skill_name: "React Query",
+    //   Image: "/reactquery.png",
+    //   width: 80,
+    //   height: 80,
+    // },
     {
       skill_name: "Type Script",
       Image: "/ts.png",
@@ -185,12 +191,12 @@ export const Skill_data = [
       width: 55,
       height: 55,
     },
-    {
-      skill_name: "Postger SQL",
-      Image: "/postger.png",
-      width: 70,
-      height: 70,
-    },
+    // {
+    //   skill_name: "Postger SQL",
+    //   Image: "/postger.png",
+    //   width: 70,
+    //   height: 70,
+    // },
     {
       skill_name: "My SQL",
       Image: "/mysql.png",
@@ -203,12 +209,12 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-    {
-      skill_name: "Graphql",
-      Image: "/graphql.png",
-      width: 80,
-      height: 80,
-    },
+    // {
+    //   skill_name: "Graphql",
+    //   Image: "/graphql.png",
+    //   width: 80,
+    //   height: 80,
+    // },
   ];
   
   export const Full_stack = [
@@ -218,12 +224,12 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-    {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
-      width: 70,
-      height: 70,
-    },
+    // {
+    //   skill_name: "Tauri",
+    //   Image: "/tauri.svg",
+    //   width: 70,
+    //   height: 70,
+    // },
     {
       skill_name: "Docker",
       Image: "/docker.webp",
@@ -244,8 +250,20 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
+      skill_name: "Photoshop",
+      Image: "/ps.png",
+      width: 60,
+      height: 60,
+    },
+    {
+      skill_name: "Illustrator",
+      Image: "/ai.png",
+      width: 60,
+      height: 60,
+    },
+    {
+      skill_name: "DaVinciResolve",
+      Image: "/tvr.png",
       width: 60,
       height: 60,
     },
